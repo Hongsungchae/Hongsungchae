@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hongsungchae%20Gitgub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=sungchae%20Gitgub&fontSize=90" />
 </br>
 
 
@@ -8,7 +8,7 @@
 
 <h3> ✨About Me✨ </h3>
 Hi there 👋 <br>
-I am Sujin Han. <br> 
+I am sungchae Hong. <br> 
 I want to be a great back-end developer <br>
 <hr>
 </div>
