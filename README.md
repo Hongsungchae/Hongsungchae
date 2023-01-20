@@ -46,10 +46,7 @@ I want to be a great back-end developer <br>
 
 <h3 align="center">👓 GitHub Stats 👓 </h3>
 
-<div align="center">
-  
-![Hongsungchae's github stats](https://github-readme-stats.vercel.app/api?username=Hongsungchae&show_icons=true)
-  
+<div align="center">  
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hongsungchae&show_icons=true&theme=tokyonight)
 </div>
 
