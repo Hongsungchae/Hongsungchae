@@ -50,6 +50,7 @@ I want to be a great back-end developer <br>
   
 ![Hongsungchae's github stats](https://github-readme-stats.vercel.app/api?username=Hongsungchae&show_icons=true)
   
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
 </div>
 
 
