@@ -43,6 +43,7 @@ I want to be a great back-end developer <br>
 </p>
 
 <hr>
+
 ### 학력
 
 조선대학교 IT융합대학/정보통신학과 
@@ -107,6 +108,9 @@ AI -900
 2. 가정용 스마트 화분
     
     [2. 가정용 스마트 화분](https://www.notion.so/2-e07165c296ed40f984ff3faf367f774e)
+
+## 개인 공부 블로그
+https://www.notion.so/bc913c323c2745b8b35499025eb365dc?pvs=4#52d61eb8aecc4fa58c58188935b5411f
 
 
 <h3 align="center">👓 GitHub Stats 👓 </h3>
