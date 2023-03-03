@@ -98,7 +98,15 @@ AI -900
 1. 정보인의 밤(2등, 조선대학교 IT융합대학)
 2. 링크사업단(우수상)
 
+## 주요 프로젝트 노션 페이지
 
+1. SmartChair
+    
+    [1. SmartChair](https://www.notion.so/1-SmartChair-4cae234a66c24324bb2690d1b9c2e2d7) 
+    
+2. 가정용 스마트 화분
+    
+    [2. 가정용 스마트 화분](https://www.notion.so/2-e07165c296ed40f984ff3faf367f774e)
 
 
 <h3 align="center">👓 GitHub Stats 👓 </h3>
